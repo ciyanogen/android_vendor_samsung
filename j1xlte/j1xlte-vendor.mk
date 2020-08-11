@@ -97,4 +97,27 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j1xlte/proprietary/vendor/lib/libbt-vendor.so:system/vendor/lib/libbt-vendor.so \
     vendor/samsung/j1xlte/proprietary/lib/libsomp.so:system/lib/libsomp.so \
     vendor/samsung/j1xlte/proprietary/vendor/lib/mediadrm/libdrmclearkeyplugin.so:system/vendor/lib/mediadrm/libdrmclearkeyplugin.so \
-    vendor/samsung/j1xlte/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so
+    vendor/samsung/j1xlte/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
+    vendor/samsung/j1xlte/proprietary/lib/hw/audio.playback_record.default.so:system/lib/hw/audio.playback_record.default.so \
+    vendor/samsung/j1xlte/proprietary/lib/hw/audio.primary.default.so:system/lib/hw/audio.primary.default.so \
+    vendor/samsung/j1xlte/proprietary/lib/hw/audio.primary.universal3475.so:system/lib/hw/audio.primary.universal3475.so \
+    vendor/samsung/j1xlte/proprietary/lib/libaudioroute.so:system/lib/libaudioroute.so \
+    vendor/samsung/j1xlte/proprietary/lib/libcodecdump.so:system/lib/libcodecdump.so \
+    vendor/samsung/j1xlte/proprietary/lib/lib_DNSe_NRSS_ver226.so:system/lib/ib_DNSe_NRSS_ver226.so \
+    vendor/samsung/j1xlte/proprietary/lib/libpreprocessing_nxp.so:system/lib/libpreprocessing_nxp.so \
+    vendor/samsung/j1xlte/proprietary/lib/libSamsungAPVoiceEngine.so:system/lib/libSamsungAPVoiceEngine.so \
+    vendor/samsung/j1xlte/proprietary/lib/libsamsungDiamondVoice.so:system/lib/libsamsungDiamondVoice.so \
+    vendor/samsung/j1xlte/proprietary/lib/libSamsungPostProcess.so:system/lib/libSamsungPostProcess.so \
+    vendor/samsung/j1xlte/proprietary/lib/libSamsungPostProcessConvertor.so:system/lib/libSamsungPostProcessConvertor.so \
+    vendor/samsung/j1xlte/proprietary/lib/libSamsungPreProcess.so:system/lib/libSamsungPreProcess.so \
+    vendor/samsung/j1xlte/proprietary/lib/libsamsungRecord.so:system/lib/libsamsungRecord.so \
+    vendor/samsung/j1xlte/proprietary/lib/libsamsungRecord_ns.so:system/lib/libsamsungRecord_ns.so \
+    vendor/samsung/j1xlte/proprietary/lib/lib_SamsungRec_V04013.so:system/lib/lib_SamsungRec_V04013.so \
+    vendor/samsung/j1xlte/proprietary/lib/libsamsungSoundbooster_ext.so:system/lib/libsamsungSoundbooster_ext.so \
+    vendor/samsung/j1xlte/proprietary/lib/libsecaudioinfo.so:system/lib/libsecaudioinfo.so \
+    vendor/samsung/j1xlte/proprietary/lib/lib_soundaliveresampler.so:system/lib/lib_soundaliveresampler.so \
+    vendor/samsung/j1xlte/proprietary/lib/lib_SoundAlive_SRC384_ver300.so:system/lib/lib_SoundAlive_SRC384_ver300.so \
+    vendor/samsung/j1xlte/proprietary/lib/lib_SoundBooster_ver610.so:system/lib/lib_SoundBooster_ver610.so \
+    vendor/samsung/j1xlte/proprietary/lib/libtinyalsa.so:system/lib/libtinyalsa.so \
+    vendor/samsung/j1xlte/proprietary/lib/libtwomicinterface.so:system/lib/libtwomicinterface.so \
+    vendor/samsung/j1xlte/proprietary/lib/libunshorten.so:system/lib/libunshorten.so
